@@ -1,0 +1,203 @@
+/* line 55, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+body {
+  font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  padding-top: 54px;
+  color: #868e96;
+}
+
+@media (min-width: 992px) {
+  /* line 61, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  body {
+    padding-top: 0;
+    padding-left: 17rem;
+  }
+}
+
+/* line 67, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #343a40;
+}
+
+/* line 79, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+h1 {
+  font-size: 6rem;
+  line-height: 5.5rem;
+}
+
+/* line 84, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+h2 {
+  font-size: 3.5rem;
+}
+
+/* line 88, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+h3 {
+  font-size: 2rem;
+}
+
+/* line 92, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+p.lead {
+  font-size: 1.15rem;
+  font-weight: 400;
+}
+
+/* line 97, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+.subheading {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 1.5rem;
+}
+
+/* line 105, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+.social-icons a {
+  display: inline-block;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff !important;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 3.5rem;
+  margin-right: 1rem;
+}
+
+/* line 116, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+.social-icons a:last-child {
+  margin-right: 0;
+}
+
+/* line 119, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+.social-icons a:hover {
+  background-color: #8844ee;
+}
+
+/* line 125, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+.dev-icons {
+  font-size: 3rem;
+}
+
+/* line 128, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+.dev-icons .list-inline-item i:hover {
+  color: #8844ee;
+}
+
+/* line 136, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+#sideNav .navbar-nav .nav-item .nav-link {
+  font-weight: 800;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
+}
+
+/* line 142, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+#sideNav .navbar-toggler:focus {
+  outline-color: #b58af4;
+}
+
+@media (min-width: 992px) {
+  /* line 149, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  #sideNav {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 17rem;
+    height: 100vh;
+  }
+  /* line 160, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  #sideNav .navbar-brand {
+    display: flex;
+    margin: auto auto 0;
+    padding: 0.5rem;
+  }
+  /* line 165, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  #sideNav .navbar-brand .img-profile {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
+  /* line 171, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  #sideNav .navbar-collapse {
+    display: flex;
+    align-items: flex-start;
+    flex-grow: 0;
+    width: 100%;
+    margin-bottom: auto;
+  }
+  /* line 178, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  #sideNav .navbar-collapse .navbar-nav {
+    flex-direction: column;
+    width: 100%;
+  }
+  /* line 182, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  #sideNav .navbar-collapse .navbar-nav .nav-item {
+    display: block;
+  }
+  /* line 184, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+    display: block;
+  }
+}
+
+/* line 194, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+section.resume-section {
+  padding-top: 5rem !important;
+  padding-bottom: 5rem !important;
+  max-width: 75rem;
+}
+
+/* line 200, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+section.resume-section .resume-item .resume-date {
+  min-width: none;
+}
+
+@media (min-width: 768px) {
+  /* line 206, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  section.resume-section {
+    min-height: 100vh;
+  }
+  /* line 209, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  section.resume-section .resume-item .resume-date {
+    min-width: 18rem;
+  }
+}
+
+@media (min-width: 992px) {
+  /* line 216, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+  section.resume-section {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+  }
+}
+
+/* line 223, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+.bg-primary {
+  background-color: #8844ee !important;
+}
+
+/* line 227, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+.text-primary {
+  color: #8844ee !important;
+}
+
+/* line 231, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+a {
+  color: #8844ee;
+}
+
+/* line 233, C:/wamp64/www/iagosilvamelo/scss/style.scss */
+a:hover, a:focus, a:active {
+  color: #6013d2;
+}
+
+/*# sourceMappingURL=../css/style.map */
