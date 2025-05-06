@@ -15,8 +15,8 @@ My nname is Iago Melo and i'm a Sr Software Engeneer.
 ## 📊 Github Stats
 <div>
     <a href="https://github.com/iagosilvamelo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagosilvamelo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagosilvamelo&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagosilvamelo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagosilvamelo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 
 </div>
 
