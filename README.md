@@ -45,3 +45,5 @@ My nname is Iago Melo and i'm a Sr Software Engeneer.
 </div>
 
 ##
+
+![snake gif](https://github.com/iagosilvamelo/iagosilvamelo/blob/output/github-snake-dark.svg)
