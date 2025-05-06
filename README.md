@@ -1,16 +1,14 @@
 # Helo there 👋
 
-My nname is Iago Melo and i'm a Sr Software Engeneer.
+## 💫 About
 
-- 🥇 Specialist PHP
-- 🥈 Advanced Javascript
-- 🥉 Intermediate Java
-
-##
+My nname is <b>Iago Melo</b> and i'm a Sr Software Engeneer.
 
 👨‍💻 I currently work as Full Stack developer winth PHP (Laravel) and Javascript (Vue)
 
 📚 I'm delving deeper into Java, C# and Go
+
+##
 
 ## 📊 Github Stats
 <div>
