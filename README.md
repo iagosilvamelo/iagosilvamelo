@@ -32,7 +32,15 @@
 ![HTML](https://img.shields.io/badge/HTML-E95420?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0052CC?&style=for-the-badge&logo=css3&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-red?&style=for-the-badge&logo=redis&logoColor=white)
-![CSS](https://img.shields.io/badge/Elasticsearch-yellow?&style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-yellow?&style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+## Concepts:
+![Solid](https://img.shields.io/badge/SOLID-3776AB?style=for-the-badge&logoColor=white)
+![Object Calisthenics](https://img.shields.io/badge/Object_Calisthenics-0052CC?style=for-the-badge&logoColor=white)
+![Clean Arch](https://img.shields.io/badge/Clean_Archteture-232F3E?style=for-the-badge&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-4EA94B?style=for-the-badge&logoColor=white)
+![Big O](https://img.shields.io/badge/Big_O-red?style=for-the-badge&logoColor=white)
+![Hexagonal Arch](https://img.shields.io/badge/Hexagonal_Archteture-yellow?&style=for-the-badge&logoColor=white)
 
 ## Tools:
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?&style=for-the-badge&logo=PhpStorm&logoColor=white)
