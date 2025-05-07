@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=712f90&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&size=40&color=712F90&width=1000&center=true&vCenter=true&lines=HELLO,+HUMAN+INTELLIGENCE;MY+NAME+IS+IAGO+MELO;I'M+FROM+BRAZIL,+RS;I'M+WORK+AS+SR+FULL+STACK+ENGINEER;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&size=40&color=3776AB&width=1000&center=true&vCenter=true&lines=HELLO,+HUMAN+INTELLIGENCE;MY+NAME+IS+IAGO+MELO;I'M+FROM+BRAZIL,+RS;I'M+WORK+AS+SR+FULL+STACK+ENGINEER;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div>
     <a href="https://www.linkedin.com/in/iago-melo-394033a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -47,4 +47,4 @@
 
 ![snake gif](https://github.com/iagosilvamelo/iagosilvamelo/blob/output/github-snake-dark.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=712f90&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=120&section=footer"/>
