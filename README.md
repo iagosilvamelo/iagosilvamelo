@@ -57,11 +57,6 @@ Passionate about distributed systems, developer experience, and the open-source 
   
 </div>
 
-<div>
-    <img height="180em" src="https://github-readme-stats.cgitech.com.br/api?username=iagosilvamelo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.cgitech.com.br/api/top-langs/?username=iagosilvamelo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-</div>
-
 ## Principal Skils:
 ![Php](https://img.shields.io/badge/Php-3776AB?style=for-the-badge&logo=php&logoColor=white)
 ![Lavravel](https://img.shields.io/badge/Laravel-E95420?style=for-the-badge&logo=laravel&logoColor=white)
