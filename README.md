@@ -2,6 +2,52 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&size=40&color=3776AB&width=1000&center=true&vCenter=true&lines=HELLO,+HUMAN+INTELLIGENCE;MY+NAME+IS+IAGO+MELO;I'M+FROM+BRAZIL,+RS;I'M+WORK+AS+SR+FULL+STACK+ENGINEER;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<br/>
+
+<details>
+<summary><strong>More about me</strong></summary>
+
+<br/>
+
+Building tools that make developers' lives easier.
+Passionate about distributed systems, developer experience, and the open-source ecosystem.
+
+**Currently at** Stellar Labs — San Francisco, CA
+</details>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:nyx@stellarlabs.dev">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nyxorion/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+</div>
+
 <div>
     <a href="https://www.linkedin.com/in/iago-melo-394033a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:iagosilvamelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
